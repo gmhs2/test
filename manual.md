@@ -2,12 +2,12 @@
 
 ## Table of Contents
 1. [Introduction](#1-introduction)  
-1.1 [Intended Readership](#intended-Readership)  
-1.2 [Purpose](#purpose)  
+1.1 [Intended Readership](#11-intended-readership)  
+1.2 [Purpose](#12-purpse)  
 
-2. [Overview](#overview)
-3. [Tutorial](#tutorial)  
-3.1 [Students](#students)     
+2. [Overview](#2-overview)
+3. [Tutorial](#3-tutorial)  
+3.1 [Students](#31-students)     
 
         3.1.1 Register  
         3.1.2 Login  
@@ -19,7 +19,7 @@
         3.1.8 Read message  
         3.1.9 Using Buddy-Up function
 
-    3.2 [Landlords](#landlords)  
+    3.2 [Landlords](#32-landlords)  
     
         3.2.1 Register  
         3.2.2 Login  
@@ -27,7 +27,7 @@
         3.2.4 Create property listing   
         3.2.5 View insight  
 
-    3.3 [Administrator](#administrator)  
+    3.3 [Administrator](#33-administrator)  
         
         3.3.1 Login  
         3.3.2 Update profile  
