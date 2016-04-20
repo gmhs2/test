@@ -38,6 +38,9 @@
         3.3.7 Expire accounts  
         3.3.8 View website statistics
 
+  A [Error messages and recovery procedures](#a-error-messages-and-recovery-procedures)  
+  B [Glossary](#b-glossary)  
+
 
 ###1. Introduction
 ####1.1	Intended Readership
@@ -229,3 +232,7 @@ Changing profile details on the system.
 #####3.3.7 Expire accounts
 
 #####3.3.8 View website statistics
+
+###A Error messages and recovery procedures  
+
+###B Glossary
