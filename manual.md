@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#1-introduction)  
 1.1 [Intended Readership](#11-intended-readership)  
-1.2 [Purpose](#12-purpse)  
+1.2 [Purpose](#12-purpose)  
 
 2. [Overview](#2-overview)
 3. [Tutorial](#3-tutorial)  
@@ -27,7 +27,7 @@
         3.2.4 Create property listing   
         3.2.5 View insight  
 
-    3.3 [Administrator](#33-administrator)  
+    3.3 [Administrator](#33-administrators)  
         
         3.3.1 Login  
         3.3.2 Update profile  
