@@ -52,8 +52,9 @@ The purpose of the user guide is to assist the user in setting up and using the 
 
 ####1.3	How to use this document
 
-*Chapter 2 gives an overview if the Flatfinder application  
-*Chapter 3 contains tutorials for the three user types: Students, Landlords and Administrators  
+* Chapter 2 gives an overview if the Flatfinder application  
+* Chapter 3 contains tutorials for the three user types: Students, Landlords and Administrators  
+
 
 ####1.4	Problem reporting
 Since the Flatfinder developing team will be dissolved after completion of the CO2015 project, the issue of
