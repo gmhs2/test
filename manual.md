@@ -192,7 +192,7 @@ Accessing the application
 #####3.2.3 Update/edit profile
 You can modify or update any personal details at any time once you have registered for an account. 
 
-1. Click profile on the navigation at the top of the page
+1. Click profile on the navigation bar at the top of the page
 2. Fill in or modify details shown on the page
 3. Click update
 
@@ -236,3 +236,12 @@ Changing profile details on the system.
 ###A Error messages and recovery procedures  
 
 ###B Glossary
+
+|Word|Description|
+|---|:-:|
+|Access|Gaining permission and authority to enter the system|
+|Flatfinder |Platform for students, landlords and administrators to use|
+|Landing Page|The first page that requires access from the user|
+|Navigation bar|A banner with links to direct user to other pages|
+|Page|The visual of the application that is displayed in the browser|
+|User|The person who uses the software|
