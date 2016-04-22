@@ -80,21 +80,21 @@ If there is not an associate account already exists with the Flatfinder system t
 register and become a member of the platform.
  
 1. On the landing page, click Sign Up  
-![im1](http://i.imgur.com/ceA2njm.png)
+![im1](https://cloud.githubusercontent.com/assets/14927027/14728577/f83def8a-082d-11e6-833c-092f670e7a86.png)
 2. Select Searcher on Role  
-![im2](http://imgur.com/WECM9Ot.png)
+![im2](https://cloud.githubusercontent.com/assets/14927027/14728580/f846be26-082d-11e6-8660-6cc0396ff5ce.png)
 3. Choose gender  
-![im3](http://imgur.com/7iHLHsO.png)
+![im3](https://cloud.githubusercontent.com/assets/14927027/14728578/f844b126-082d-11e6-991a-a58ee550e109.png)
 4. Choose status  
-![im4](http://imgur.com/MNsZD8B.png)
+![im4](https://cloud.githubusercontent.com/assets/14927027/14728579/f846182c-082d-11e6-9839-655d9795d473.png)
 5. Choose age group  
-![im5](http://imgur.com/g8OcALJ.png)
+![im5](https://cloud.githubusercontent.com/assets/14927027/14728581/f846c93e-082d-11e6-8edf-c93a6d08901a.png)
 6. Fill in personal details  
-![im6](http://imgur.com/McR2zhJ.png)
+![im6]![im6](https://cloud.githubusercontent.com/assets/14927027/14728582/f848aede-082d-11e6-9c0c-bd0903f943e4.png)
 7. Fill in User-name, password, password again and tick Buddy program (optional)
-![im7](http://imgur.com/WPeMXoD.png)
+![im7](https://cloud.githubusercontent.com/assets/14927027/14728583/f85459fa-082d-11e6-8f84-49b6f9e4c07a.png)
 8. Click Submit  
-![im8](http://imgur.com/L856fi0.png)
+![im8](https://cloud.githubusercontent.com/assets/14927027/14728584/f857a042-082d-11e6-92fe-566d458bb1db.png)
 9. Successful registration message appears  
 ![im9]  
 
@@ -105,18 +105,18 @@ In order to access the web application, you will have to login with the account 
 
 1. On the landing page, click login; fill in username with email address that was used when registering
 (username can be changed).  
-![im10](http://imgur.com/qnn9Mnc.png)
-2. Click Login
-![im11](http://imgur.com/u91039l)
+![im10]
+2. Click Login  
+![im11](https://cloud.githubusercontent.com/assets/14927027/14728574/f81f2654-082d-11e6-862e-a85486418cfd.png)
 3. Arrive home page with property search bar  
 ![im12]
 
 *Non-first time logging in:*
 
-1. On the landing page, click login; fill in the username for your personal account
-![im13](http://imgur.com/4Hp4rIZ)
+1. On the landing page, click login; fill in the username for your personal account  
+![im13](https://cloud.githubusercontent.com/assets/14927027/14728576/f834fca4-082d-11e6-9d6a-465758f55be8.png)
 2. Click Login  
-![im11](http://imgur.com/u91039l)
+![im11](https://cloud.githubusercontent.com/assets/14927027/14728574/f81f2654-082d-11e6-862e-a85486418cfd.png)
 3. Arrive home page with property search bar  
 ![im12]
 
