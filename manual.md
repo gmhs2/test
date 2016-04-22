@@ -9,7 +9,7 @@
 3. [Tutorial](#3-tutorial)  
 3.1 [Students](#31-students)     
 
-        3.1.1 Register  
+        3.1.1 Sign Up 
         3.1.2 Login  
         3.1.3 Search Property with filters  
         3.1.4 Express Interest  
@@ -21,7 +21,7 @@
 
     3.2 [Landlords](#32-landlords)  
     
-        3.2.1 Register  
+        3.2.1 Sign Up
         3.2.2 Login  
         3.2.3 Update/edit profile  
         3.2.4 Create property listing   
@@ -75,102 +75,147 @@ peers to rent together and ultimately creating a better environment for students
 ###3. Tutorial
 ####3.1	Students
 
-#####3.1.1 Register
+#####3.1.1 Sign Up
 If there is not an associate account already exists with the Flatfinder system then you will need to
 register and become a member of the platform.
  
-1. On the landing page, click register
-2. Use the students section
-3. Fill in email address
-4. Fill in password
-5. Fill in confirm password
-6. Click Submits
-7. Receive confirmation email
+1. On the landing page, click Sign Up  
+![im1](http://i.imgur.com/ceA2njm.png)
+2. Select Searcher on Role  
+![im2](http://imgur.com/WECM9Ot.png)
+3. Choose gender  
+![im3](http://imgur.com/7iHLHsO.png)
+4. Choose status  
+![im4](http://imgur.com/MNsZD8B.png)
+5. Choose age group  
+![im5](http://imgur.com/g8OcALJ.png)
+6. Fill in personal details  
+![im6](http://imgur.com/McR2zhJ.png)
+7. Fill in User-name, password, password again and tick Buddy program (optional)
+![im7](http://imgur.com/WPeMXoD.png)
+8. Click Submit  
+![im8](http://imgur.com/L856fi0.png)
+9. Successful registration message appears  
+![im9]  
 
 #####3.1.2 Login
 In order to access the web application, you will have to login with the account you previously registered.
 
 *First time logging in:*
 
-1. On the landing page, fill in username with email address that was used when registering
-(username can be changed).
+1. On the landing page, click login; fill in username with email address that was used when registering
+(username can be changed).  
+![im10](http://imgur.com/qnn9Mnc.png)
 2. Click Login
-3. Arrive home page with property search bar
+![im11](http://imgur.com/u91039l)
+3. Arrive home page with property search bar  
+![im12]
 
 *Non-first time logging in:*
 
-1. On the landing page, fill in the username for your personal account
-2. Click Login
-3. Arrive home page with property search bar
+1. On the landing page, click login; fill in the username for your personal account
+![im13](http://imgur.com/4Hp4rIZ)
+2. Click Login  
+![im11](http://imgur.com/u91039l)
+3. Arrive home page with property search bar  
+![im12]
 
 #####3.1.3 Search property with filters
 To search the desired properties, you can use the search bar and filters provided to match 
 personal preferences. 
 
-1. On the home page, enter the postcode according to personal interest
-2. Select the filters from the drop-down lists below the search bar
-3. Click Search
-4. Relevant properties appear in a list on a new page
+1. On the home page, enter the postcode according to personal interest  
+![im16]
+2. Select the filters from the drop-down lists below the search bar  
+![im17]
+3. Click Search  
+![im18]
+4. Relevant properties appear in a list on a new page  
+![im19]
 
 #####3.1.4 Express Interest
 You can show interest on a specific property by using the express interest function, this will notify
 the landlord which may aid negotiation on tenancy agreement. 
 
-1. Using the list searched from the home page(3.1.3), click on the desired property
-2. Arrive property page
-3. Click on the express interest button
+1. Using the list searched from the home page(3.1.3), click on the desired property  
+![im20]
+2. Arrive property page  
+![im21]
+3. Click on the express interest button  
+![im22]
+
 
 #####3.1.5 Feedback/Rating on property
 Give feedback or a rating on a property that you have lived in to help other peers make 
 decision on their accommodation choice. 
 
-1. Using the list searched from the home page(3.1.3), click on property previously lived in
-2. Arrive property page
-3. Click on the rating 1~10
-4. Click submit
+1. Using the list searched from the home page(3.1.3), click on property previously lived in  
+![im23]
+2. Arrive property page  
+![im24]
+3. Click on the rating 1~5 
+![im25]
+4. Click submit  
+![im26]
 
 #####3.1.6 Update/edit Personal details
 You can modify or update any personal details at any time once you have registered for 
 an account. 
 
-1. Click profile on the navigation bar at the top of the page
-2. Fill in the details that needs to be added or edited
-3. Click update
+1. Click profile on the navigation bar at the top of the page  
+![im27]
+2. Fill in the details that needs to be added or edited  
+![im28]
+3. Click update  
+![im29]
 
 #####3.1.7 Send message
 As a student user, you can send message to other students using the messaging function
 on the application. 
 
-1. Click Messages on the navigation bar at the top of the page
-2. Click New Message
-3. Fill in the ‘To’ section with the desired recipient(s)
-4. Fill in the subject
-5. Type the message in the textbox below subject
-6. Click send
+1. Click Messages on the navigation bar at the top of the page  
+![im30]
+2. Click New Message  
+![im31]
+3. Fill in the ‘To’ section with the desired recipient(s)  
+![im32]
+4. Fill in the subject  
+![im33]
+5. Type the message in the textbox below subject  
+![im34]
+6. Click send  
+![im35]
 
 #####3.1.8 Read message
 If another student sends you a message you can read it on the website.
 
-1. Click Messages on the navigation bar at the top of the page
-2. Click on the unread message 
+1. Click Messages on the navigation bar at the top of the page  
+![im36]
+2. Click on the unread message  
+![im37]
 
 #####3.1.9 Using Buddy Up function
 The application will show potential buddies that have similar preferences to you then you can 
 add them and become buddies. 
 
-1. Click profile 
-2. Potential buddies will appear in the list under ‘buddies’
-3. Click add to create a connection between the two accounts
+1. Click profile  
+![im38]
+2. Potential buddies will appear in the list under ‘buddies’  
+![im39]
+3. Click add to create a connection between the two accounts  
+![im40]
 
 #####3.1.9 Report
 If there are any inappropriate users or properties you can use the report to notify the website’s
 administrators for further actions to be taken.
 
-1. Click Report on the bottom of the page
+*Reporting a property:*  
+1. Click report property on the property details page  
+![im41]
 
 ####3.2	Landlords
 
-#####3.2.1 Register
+#####3.2.1 Sign Up
 To be able to list properties on the application, an account must be created and used.
 
 1. On the landing page, Click Register
@@ -179,7 +224,7 @@ To be able to list properties on the application, an account must be created and
 4. Fill in Password
 5. Fill in Confirm Password
 6. Click Submit
-7. Receive confirmation email
+7. Successful registration message appears
 
 #####3.2.2 Login
 Accessing the application
