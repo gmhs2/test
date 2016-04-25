@@ -289,7 +289,7 @@ Changing profile details on the system.
 ![im27](https://cloud.githubusercontent.com/assets/14927027/14800522/17837414-0b3a-11e6-9253-fcfc824135c3.png)
 2. Fill in the details that needs to be added or edited  
 ![im28](https://cloud.githubusercontent.com/assets/14927027/14800524/17849b00-0b3a-11e6-88c4-76fd58790b13.png)
-3. Click Amend Details 
+3. Click Amend Details  
 ![im29](https://cloud.githubusercontent.com/assets/14927027/14800523/1783b708-0b3a-11e6-8b2b-c6743b26c98c.png)
 
 #####3.3.3 View property Listing  
@@ -309,7 +309,7 @@ Viewing the reports made by both Searcher and Landlord
 1. Login with username and password
 2. Click Administrator Dashboard on navigation bar   
 ![im68](https://cloud.githubusercontent.com/assets/14927027/14799960/e27b1c8e-0b36-11e6-9a0b-9826e01545b1.png)
-3. Click View Reports 
+3. Click View Reports  
 ![im71](https://cloud.githubusercontent.com/assets/14927027/14799963/e280fde8-0b36-11e6-8e8e-1da58680694a.png) 
 4. Report listing appears  
 ![im70](https://cloud.githubusercontent.com/assets/14927027/14799961/e27b8386-0b36-11e6-898f-90905c012987.png)
