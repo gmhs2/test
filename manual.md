@@ -153,7 +153,7 @@ decision on their accommodation choice.
 1. Using the list searched from the home page(3.1.3), click on property previously lived in  
 2. Arrive property page  
 ![im24](https://cloud.githubusercontent.com/assets/14927027/14799810/5f756696-0b36-11e6-8be3-6ef284362104.png)
-3. Click on the rating 1~5 
+3. Click on the rating 1~5  
 ![im25](https://cloud.githubusercontent.com/assets/14927027/14799809/5f7542f6-0b36-11e6-89a9-3b6141ff7efb.png)
 4. Click SUBMIT FEEDBACK  
 ![im26](https://cloud.githubusercontent.com/assets/14927027/14799812/5ff0c41c-0b36-11e6-86b2-fc47e181bfca.png)
